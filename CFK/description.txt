@@ -1,0 +1,4 @@
+This is just a CFK project.
+C - Celsium
+F - Fahrenheit
+K - Kelvin
