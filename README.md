@@ -1,2 +1,3 @@
-These are just my codes while learning c++
-Period 2020-2021
+These are just my simple codes while learning c++ <br>
+Loaded for memory :) <br>
+Period 2019-2021. <br>
